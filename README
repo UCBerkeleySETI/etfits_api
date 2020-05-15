@@ -1,3 +1,7 @@
+NOTE : This copy of the code should be considered archival.  The working
+copy is now on source forge as etfits-api.
+
+
 To compile C code: 
 make
 To compile Python wrapper
